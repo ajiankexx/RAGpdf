@@ -41,7 +41,7 @@ class Raptor():
         """
         chunks:[(text, embedding)]
         """ 
-        optimal_cluster = self._get_n_cluster(chunks, max_cluster)
+        optimal_cluster = self._get_n_cluster(chunks, random_state)
 
         start = 0
         end = len(chunks)
