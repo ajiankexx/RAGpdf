@@ -1,0 +1,7 @@
+.env
+deepseek_v3_tokenizer
+pdf
+vectors
+test
+__pycache__/
+*.pyc
