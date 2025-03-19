@@ -1,5 +1,5 @@
 # TODO: raptor核心逻辑
-from base import llm_chat, llm_embedding
+from RAGpdf.src.llm.base import llm_chat, llm_embedding
 import umap
 from sklearn.mixture import GaussianMixture
 import trio

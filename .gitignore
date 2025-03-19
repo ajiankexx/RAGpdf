@@ -5,3 +5,4 @@ vectors
 test
 __pycache__/
 *.pyc
+vectordb
